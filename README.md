@@ -9,21 +9,35 @@ Out ISA project used 32 bit instructions.
 
 ## Benchmark #1
 LINE #      INSTRUCTION
+
 1           KLAR
+
 2           DUCAN 5 R1
+
 3           DIZI R1 APPLE
+
 4           IPHELA APPLE
+
 5           MATRIXSOM APPLE R2
+
 6           SAIDA R2
+
 7           MUTU
+
 
 ### OUTPUT:
 Populate [0000000]: 1 
+
 Populate [0000000]: 2 
+
 Populate [0000000]: 3 
+
 Populate [0000000]: 4 
+
 Populate [0000000]: 5 
+
 Register 2: 15
+
 
 ### EXPLANATION:
 1. SETS THE VALUE OF ALL REGISTERS TO 0 -> EX. R1 = 0
