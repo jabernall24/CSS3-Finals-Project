@@ -53,21 +53,36 @@ Register 2: 15
 
 ## Benchmark #2
 LINE #      INSTRUCTION
+
 1           KLAR
+
 2           DUCAN 5 R1
+
 3           DIZI R1 APPLE
+
 4           KLAR
+
 5           IPHELA APPLE
+
 6           GASI 4 APPLE
+
 7           MUTU
+
+
 
 ### OUTPUT:
 Populate [0000000]: 1 
+
 Populate [0000000]: 2
+
 Populate [0000000]: 3 
+
 Populate [0000000]: 4 
+
 Populate [0000000]: 5 
+
 [0000000]: 4, Yes
+
 
 ### EXPLANATION:
 1. SETS THE VALUE OF ALL REGISTERS TO 0 -> EX. R1 = 0
